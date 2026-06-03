@@ -17,7 +17,8 @@ window.PUBLICATIONS = [
     venue: "ACM SIGGRAPH",
     year: 2026,
     links: {
-      project: "https://straybirdflower.github.io/Ref-DGS/",
+      project: "https://njfan.github.io/Ref-DGS/",
+      paper: "https://arxiv.org/pdf/2603.07664",
       arxiv: "https://arxiv.org/abs/2603.07664",
     },
     bibtex: `@article{fan2026ref,
